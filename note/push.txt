@@ -1,0 +1,14 @@
+{"publicKey":"BGrn87rpdijFk-eDyQwPVGHVU3GgBgQvZrzRZtCGYpBO9DhPCGkgbFTevoYEo13ri9KzmD6PYZnfA7-dBghO4Us","privateKey":"vhDBeGlgrMDew2RiKihPq4SaBjY45snd4GeoDWcJLTQ"} 
+
+sender id : 
+950526881062
+
+Berhasil melakukan subscribe dengan endpoint:  
+https://fcm.googleapis.com/fcm/send/cxmGfRSKTPY:APA91bEOfVoZA1A7JwZrnzAmuRS5gzp0FqfZXSSQLbof0RtCNNBIaJxm9WBeWwlPbd6qv3Hy9CN4SXwW5SlsI5ZA2pgMTGVCSxMVUx2mB634rIJb8F9bfOLCSqWlHOZ6oZ3hmB6N60UZ
+
+
+(index):105 Berhasil melakukan subscribe dengan p256dh key:  
+BP6l04mmRQxC+rxEBEuI89douZyJ71FgTKKZ1nIxfYwyQRMPaEPM868zSjct0aMxTNi65qbt8xO9yVyEGQaNEXo=
+
+(index):107 Berhasil melakukan subscribe dengan auth key:  
+Bw5YSMlovMdC0XWO1NnDeQ==
